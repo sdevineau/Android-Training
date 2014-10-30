@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FormationAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Your Name</string>
+    <string name="email">Your Email</string>
+    <string name="birthDate">Birth date</string>
+    <string name="validate">Validate</string>
+    <string name="cancel">Cancel</string>
+    <string name="blue">Do you like blue?</string>
+    <string name="gender">Gender</string>
+
+    <string-array name="gender">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+
+</resources>
